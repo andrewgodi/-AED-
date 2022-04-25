@@ -1,7 +1,7 @@
-                                              Algoritmos y Estructuras de Datos (AED)
+                                        Algoritmos y Estructuras de Datos (AED)
 
 
-  - 
+  - Andres Godino
   
   - 
   -
